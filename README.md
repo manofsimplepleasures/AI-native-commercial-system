@@ -14,7 +14,7 @@ A public portfolio of prompt-driven systems for sales, marketing, hypothesis tes
 
 - `docs/architecture.md` - end-to-end system architecture and routing model.
 - `docs/project_story.md` - product + business logic behind the prompt system.
-- `prompts/agents/` - full multi-agent prompt system (20 agent prompts).
+- `agents_prompts` - full multi-agent prompt system (20 agent prompts).
 
 
 ## Portfolio positioning
