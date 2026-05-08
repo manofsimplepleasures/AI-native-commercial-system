@@ -1,6 +1,6 @@
 # Prompt Architecture Portfolio
 
-A public, anonymized portfolio of prompt-driven systems for sales, marketing, hypothesis testing, and strategic repositioning.
+A public portfolio of prompt-driven systems for sales, marketing, hypothesis testing, and strategic repositioning.
 
 ## What is inside
 
@@ -8,10 +8,7 @@ A public, anonymized portfolio of prompt-driven systems for sales, marketing, hy
 - `docs/project_story.md` - product + business logic behind the prompt system.
 - `prompts/sales/` - commercial activation prompts (qualification, outreach, pre-diagnostic, follow-up).
 - `prompts/marketing/` - content engine prompts (research, hooking, drafting, anti-generic QA).
-- `prompts/hypotheses/` - experiments and decision prompts.
 - `prompts/strategy/` - pivot and packaging prompts.
-- `docs/video_script.md` - ready-to-record GitHub demo script.
-- `sources/notion_sources_index.md` - full inventory of imported Notion documents (all processed).
 
 ## Portfolio positioning
 
@@ -25,7 +22,6 @@ This repository demonstrates how prompt architecture can:
 
 - repo name: `prompt-architecture-portfolio`
 - tags: `prompt-engineering`, `go-to-market`, `sales-automation`, `content-systems`, `ai-ops`
-- add a short loom walkthrough using `docs/video_script.md`
 
 ## Resume-ready one-liner
 
